@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css?family=Indie+Flower");
+
+body {
+  background-image: url("http://img14.deviantart.net/f6f0/i/2012/150/f/d/amidst_the_darkness_by_catchingfyre-d51ml1m.jpg");
+  background-attachment: relative;
+  background-size: 100%;
+  font-family: "Indie Flower";
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+
+h1 {
+  font-weight: 900;
+  font-size: 64px;
+  margin-top: 200px;
+}
+
+hr {
+  margin: -10px 600px 30px;
+  background-color: white;
+}
+
+h2 {
+  font-weight: 600;
+  font-size: 48px;
+}
+
+h3 {
+  font-weight: bold;
+  display: inline;
+  font-size: 40px;
+
+}
+
+button {
+  font-size: 18px;
+  cursor: pointer;
+  color: white;
+  background-color: #2d8659;
+  border: none;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 2px 20px 2px 20px;
+}
+
+button:hover {
+  background-color: #206040;
+}
+
+button:active {
+  background-color: #206040;
+  box-shadow: 0 2px #666;
+  transform: translateY(3px);
+}
+
+#start {
+	font-family: "Indie Flower";
+  font-weight: bold;
+  font-size: 24px;
+
+}
+
+#reset {
+	font-family: "Indie Flower";
+  font-weight: bold;
+	font-size: 24px;
+  
+
+}
